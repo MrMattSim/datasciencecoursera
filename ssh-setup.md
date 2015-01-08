@@ -4,7 +4,7 @@
 
 ```bash
 $touch ~/.ssh/config
-$vim ~/.ssh/config
+$vi ~/.ssh/config
 ```
 
 	#MrMattSim account
