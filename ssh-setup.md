@@ -34,7 +34,7 @@ $
 Now, when you push from the current repo, you won't need to authenticate each time. <br>
 Just, `git commit -a -m 'null' && git push`
 
-![matt](https://copy.com/WiKwXBzvW7UehxO1 "matt")
+[![matt](https://copy.com/WiKwXBzvW7UehxO1 "matt")](http://bymattsim.weebly.com)
 
 ---
 ######Sources & Additional Info:
