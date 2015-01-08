@@ -34,7 +34,7 @@ $
 Now, when you push from the current repo, you won't need to authenticate each time. <br>
 Just, `git commit -a -m 'null' && git push`
 
-<div style="border-radius:32px"><img src="https://copy.com/OP1wECOsZbwK8jGy"/></div>
+<div style="overflow:hidden;border-radius:32px"><img src="https://copy.com/OP1wECOsZbwK8jGy"/></div>
 
 ---
 ######Sources & Additional Info:
