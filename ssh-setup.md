@@ -34,6 +34,8 @@ $
 Now, when you push from the current repo, you won't need to authenticate each time. <br>
 Just, `git commit -a -m 'null' && git push`
 
+<div><img src="https://copy.com/OP1wECOsZbwK8jGy" style="border-radius:32px"/></div>
+
 ---
 ######Sources & Additional Info:
 - [Automatically use correct SSH key for remote git repo (knitatoms.net)](http://knitatoms.net/2013/10/automatically-use-correct-ssh-key-for-remote-git-repo/)
