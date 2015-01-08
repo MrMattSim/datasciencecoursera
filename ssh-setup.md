@@ -3,8 +3,8 @@
 ####Create config file
 
 ```sh
-$touch ~/.ssh/config
-$vi ~/.ssh/config
+$ touch ~/.ssh/config
+$ vi ~/.ssh/config
 ```
 
 ```text
