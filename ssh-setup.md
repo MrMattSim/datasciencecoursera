@@ -32,7 +32,6 @@ $
 ```
 ####One-line commit
 Now, when you push from the current repo, you won't need to authenticate each time. 
-
 Just, `git commit -a -m 'null' && git push`
 
 ---
