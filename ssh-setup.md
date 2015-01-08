@@ -26,9 +26,14 @@ $ git remote set-url origin git@github.com-MrMattSim:MrMattSim/datasciencecourse
 ####Check and confirm remote origin config:
 ```sh
 $ git remote -v
+origin	git@github.com-MrMattSim:MrMattSim/datasciencecoursera.git (fetch)
+origin	git@github.com-MrMattSim:MrMattSim/datasciencecoursera.git (push)
+$
 ```
 ####One-line commit
-Now, when you push from the current repo, you won't need to authenticate each time. Just, `git commit -a -m 'null' && git push`
+Now, when you push from the current repo, you won't need to authenticate each time. 
+Just, `git commit -a -m 'null' && git push`
+---
 #####Sources & Additional Info:
 - [Automatically use correct SSH key for remote git repo (knitatoms.net)](http://knitatoms.net/2013/10/automatically-use-correct-ssh-key-for-remote-git-repo/)
 - [Generating SSH keys (help.github.com)](https://help.github.com/articles/generating-ssh-keys/)
