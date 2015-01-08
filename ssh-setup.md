@@ -1,6 +1,6 @@
 ## SSH setup for automatic github authentication
 
-####Create config file
+####Create config file and repo (or change repo settings)
 
 ```sh
 $ touch ~/.ssh/config
@@ -23,10 +23,11 @@ If the local repo already exists, then change the remote origin settings, like s
 ```sh
 $ git remote set-url origin git@github.com-MrMattSim:MrMattSim/datasciencecoursera.git
 ```
-Check and confirm remote origin config:
+####Check and confirm remote origin config:
 ```sh
 $ git remote -v
 ```
+####One-line commit
 Now, when you push from the current repo, you won't need to authenticate each time. Just, `git commit -a -m 'null' && git push`
 #####Sources & Additional Info:
 - [Automatically use correct SSH key for remote git repo (knitatoms.net)](http://knitatoms.net/2013/10/automatically-use-correct-ssh-key-for-remote-git-repo/)
