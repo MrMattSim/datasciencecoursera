@@ -14,6 +14,6 @@ $vim ~/.ssh/config
 	    IdentityFile ~/.ssh/id_rsa #or whatere was used for
 
 
-#####Sources:
+#####Sources & Additional Info:
 - [Automatically use correct SSH key for remote git repo (knitatoms.net)](http://knitatoms.net/2013/10/automatically-use-correct-ssh-key-for-remote-git-repo/) 
 - [Generating SSH keys (help.github.com)](https://help.github.com/articles/generating-ssh-keys/) 
