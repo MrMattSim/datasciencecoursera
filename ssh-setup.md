@@ -1,7 +1,7 @@
 ## SSH setup for automatic github authentication
 
 ####Create config file and repo (or change repo settings)
-
+ 
 ```sh
 $ touch ~/.ssh/config
 $ vi ~/.ssh/config
