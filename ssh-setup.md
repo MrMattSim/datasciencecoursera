@@ -8,11 +8,16 @@ $ vi ~/.ssh/config
 ```
 
 ```text
-Host github.com-MrMattSim #This is an arbitrary name
+Host github.com-MrMattSim 
 	HostName github.com
 	User git #this must always be "git"
 	IdentityFile ~/.ssh/id_rsa #or whatere was used for
 ```
+* Host is an arbitrary name, used below to refer to this config entry.
+* There can be multiple config entries. 
+* User must always be 'git'. 
+* IdentityFile is whatever was used during ssh setup. Each config can use a  different key, or not.
+
 When creating a local repo, the following command will instruct git to use the config settings:
 ```sh
 $ git clone git@github.com-MrMattSim:MrMattSim/datasciencecoursera.git #[local folder name]
