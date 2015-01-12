@@ -10,8 +10,8 @@ $ vi ~/.ssh/config
 ```text
 Host github.com-MrMattSim 
 	HostName github.com
-	User git #this must always be "git"
-	IdentityFile ~/.ssh/id_rsa #or whatere was used for
+	User git
+	IdentityFile ~/.ssh/id_rsa
 ```
 * Host is an arbitrary name, used below to refer to this config entry.
 * There can be multiple config entries. 
